@@ -2,7 +2,7 @@
 This is a template to make 1.18 texture packs off of. 
 
 How to:
-Download the zip or folder. 
+Download the zip.
 Open it and look for the textures you want to edit. 
 Open the textures in a photo editing software. I use Photoshop, but anything will work great.
 Once you have edited the texture save as a .png and replace the one you made with the default one. MAKE SURE IT HAS THE EXACT SAME NAME 
