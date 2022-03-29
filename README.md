@@ -1,0 +1,1 @@
+# 1.18-Minecraft-Texture-Pack-Template
